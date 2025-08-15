@@ -80,8 +80,9 @@
 <ul>
 
 <li>
-  <a href="linkedin.com/in/ahmed-essam-3b9641363">
-    <img src="https://img.shields.io/badge/LinkedIn-amr--ashraf---%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/ahmed-essam-3b9641363" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Essam-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
 </li>
 
@@ -90,8 +91,9 @@
 <br>
 
 <li>
-  <a href="ae7869085@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:-amrashraf.official-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
+  <a href="mailto:ae7869085@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Ahmed%20Essam-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Gmail" style="margin-bottom: 5px;" />
   </a>
 </li>
 
